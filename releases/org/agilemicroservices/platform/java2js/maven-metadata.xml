@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.agilemicroservices.platform</groupId>
+  <artifactId>java2js</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170418175925</lastUpdated>
+  </versioning>
+</metadata>
