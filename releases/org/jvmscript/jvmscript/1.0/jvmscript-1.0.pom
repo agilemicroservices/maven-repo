@@ -192,16 +192,16 @@
       <scope>runtime</scope>
     </dependency>
   </dependencies>
-  <description>Groovy scripting utility library.</description>
+  <description>JVM scripting utility library.</description>
   <name>jvmscript</name>
-  <url>https://github.com/agilemicroservices/groovyutil</url>
+  <url>https://github.com/agilemicroservices/jvmscript</url>
   <licenses>
     <license>
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
     </license>
   </licenses>
   <scm>
-    <url>https://github.com/agilemicroservices/groovyutil</url>
+    <url>https://github.com/agilemicroservices/jvmscript</url>
   </scm>
   <developers>
     <developer>
