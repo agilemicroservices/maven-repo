@@ -197,6 +197,12 @@
       <version>1.9.1.RELEASE</version>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-all</artifactId>
+      <version>4.0.32.Final</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
   <description>JVM scripting utility library.</description>
   <name>jvmscript</name>
