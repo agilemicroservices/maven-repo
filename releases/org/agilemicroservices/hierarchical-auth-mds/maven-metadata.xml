@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.agilemicroservices</groupId>
+  <artifactId>hierarchical-auth-mds</artifactId>
+  <versioning>
+    <versions>
+      <version>2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181031162730</lastUpdated>
+  </versioning>
+</metadata>
